@@ -7,7 +7,7 @@ Module providing access to the [CleverTap](https://clevertap.com/) API
 Add to your Gemfile
 
 ```ruby
-gem 'clever_tap', github: 'tradeo/clevertap-ruby'
+gem 'clever_tap', github: 'beep-saude/clevertap-ruby'
 ```
 
 ## Usage
