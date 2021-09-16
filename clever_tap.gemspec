@@ -25,7 +25,7 @@ Gem::Specification.new do |spec|
       'public gem pushes.'
   end
 
-  spec.add_dependency 'faraday', '< 2.0, >= 0.17.3'
+  spec.add_dependency 'faraday', '>= 0.17.3','< 2.0'
   spec.add_dependency 'json'
 
   spec.add_development_dependency 'bundler', '~> 1.14'
